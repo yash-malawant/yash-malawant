@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/yash-malawant-524273164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-malawant-524273164" height="30" width="40" /></a>
 <a href="https://fb.com/yash malawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yash malawant" height="30" width="40" /></a>
 <a href="https://instagram.com/yash_malawant_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_malawant_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yash malawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yash malawant" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Yash Malawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Yash Malawant" height="30" width="40" /></a>
 <a href="https://discord.gg/6320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6320" height="30" width="40" /></a>
 </p>
 

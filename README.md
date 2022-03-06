@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yash Malawant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*EvZG6ZZmfEd7z_QIPQn-tQ.gif">
